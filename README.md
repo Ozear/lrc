@@ -4,7 +4,7 @@
 
 **Single-file, offline, bilingual (Arabic / English) library system for school Learning Resource Centers.**
 
-[![Version](https://img.shields.io/badge/version-v0.9.1-blue)](#)
+[![Version](https://img.shields.io/badge/version-v0.9.2-blue)](#)
 [![Runs offline](https://img.shields.io/badge/runs-offline%20%7C%20no%20install-success)](#)
 [![Browser](https://img.shields.io/badge/browser-Chrome%20%7C%20Edge-informational)](#)
 [![Database](https://img.shields.io/badge/database-SQLite%20(sql.js)-lightgrey)](#)
@@ -56,6 +56,7 @@ internet connection needed — double-click the file and it opens in Chrome or E
 | **Inventory** | Annual barcode inventory with multi-copy books, damaged and out-of-list books, progress, resume, and full reports/exports. |
 | **Search & analytics** | Universal search; monthly trends, top borrowers, popular titles, loans by class, overdue analysis. |
 | **Bilingual** | Arabic (RTL, default) and English, switchable from the menu. |
+| **Dark mode** | Moon/sun button in the menu; follows the Windows dark setting by default and remembers your choice. Printing always uses light colours. |
 
 ## Where your data lives
 
