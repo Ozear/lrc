@@ -4,7 +4,7 @@
 
 **Single-file, offline, bilingual (Arabic / English) library system for school Learning Resource Centers.**
 
-[![Version](https://img.shields.io/badge/version-v0.9.2-blue)](#)
+[![Version](https://img.shields.io/badge/version-v0.9.3-blue)](#)
 [![Runs offline](https://img.shields.io/badge/runs-offline%20%7C%20no%20install-success)](#)
 [![Browser](https://img.shields.io/badge/browser-Chrome%20%7C%20Edge-informational)](#)
 [![Database](https://img.shields.io/badge/database-SQLite%20(sql.js)-lightgrey)](#)
