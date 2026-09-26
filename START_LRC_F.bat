@@ -1,13 +1,13 @@
 @echo off
 rem ============================================================
 rem  LRC Library - Loan & Inventory Management (single HTML file)
-rem  Opens LRC_System.html in Google Chrome or Microsoft Edge.
+rem  Opens LRC_System_F.html in Google Chrome or Microsoft Edge.
 rem  No installation, no server, no internet needed.
 rem ============================================================
 setlocal
-set "HTML=%~dp0LRC_System.html"
+set "HTML=%~dp0LRC_System_F.html"
 if not exist "%HTML%" (
-  echo LRC_System.html was not found next to this file.
+  echo LRC_System_F.html was not found next to this file.
   pause
   exit /b 1
 )
